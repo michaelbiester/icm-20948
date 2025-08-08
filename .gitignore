@@ -1,0 +1,9 @@
+
+# ignore all check points
+.ipynb_checkpoints/
+doc/*
+!doc/images/*	
+!doc/icm_20948_getting_started.tex
+
+literatur/*
+python_rpi/*
